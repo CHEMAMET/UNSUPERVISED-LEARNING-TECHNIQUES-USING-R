@@ -1,14 +1,19 @@
 # UNSUPERVISED-LEARNING-TECHNIQUES-USING-R
 
-PART 1 AND 2(DIMENSIONALITY REDUCTION AND FEATURE SELECTION): http://rpubs.com/CHEMAMET/
+PART 1 AND 2(*DIMENSIONALITY REDUCTION AND FEATURE SELECTION*): http://rpubs.com/CHEMAMET/
 
-PART 3(ASSOCIATION RULES): http://rpubs.com/CHEMAMET/
+PART 3(*ASSOCIATION RULES*): http://rpubs.com/CHEMAMET/
 
-PART 4(ANOMALY DETECTION) : http://rpubs.com/CHEMAMET/
+PART 4(*ANOMALY DETECTION*) : http://rpubs.com/CHEMAMET/
+
+
+**CARREFOUR MARKET**
+
+![image](https://user-images.githubusercontent.com/98380046/173290526-397842cd-2b3d-4f43-b99b-16cb61702109.png)
+
 
 
 **OVERVIEW**
-
 Since setting up shop in East Africa's biggest economy in 2016, Carrefour has expanded quickly and now runs 13 outlets in the major cities of Nairobi and Mombasa, making it one of the country's biggest foreign supermarket chains, in Kenya.
 
 Carrefour, one of the largest French hypermarket chains in the world was introduced to the Middle East and North Africa (MENA) market in 1995 by Majid Al Futtaim, the leading shopping mall, retail and leisure pioneer across MENA. Carrefour has become the most dynamic, fast-moving and exciting hypermarket chain in the region and shared its growth with more than 21,000 employees from more than 68 nationalities in 12 countries, providing shoppers with variety and value-for-money. Carrefour ensures customer satisfaction and everyday convenience while offering unbeatable value for money with a vast array of more than 100,000 products, shoppers can purchase items for their every need, whether home electronics or fresh fruits from around the world, to locally produced items. Carrefour currently operates over 55 hypermarkets and over 50 supermarkets and one web store in 12 countries across the MENA region and will extend to include 38 countries in the Middle East, Central Asia, Africa and Russia. By 2018, Majid Al Futtaim Retail expects to reach 140 hypermarkets and 210 supermarkets and expand its territory in 6 new markets.
